@@ -1,0 +1,5 @@
+*.o
+unpv13e/**
+*.out
+bin/**
+bin/*
